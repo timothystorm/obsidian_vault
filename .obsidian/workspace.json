@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/Playwright.md",
+                "file": "knowledge/tools/Playwright.md",
                 "mode": "source",
                 "source": false
               },
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"tags\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/Playwright.md",
+                "file": "knowledge/tools/Playwright.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,12 +165,12 @@
               "title": "Outline of Playwright"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,7 +186,12 @@
   "active": "30d305162d67644b",
   "lastOpenFiles": [
     "README.md",
-    "tools/Playwright.md",
+    "knowledge/tools/Playwright.md",
+    "Untitled.base",
+    "2026-03-14.md",
+    "Untitled.canvas",
+    "knowledge",
+    "concepts/browser_automation",
     "concepts/Concepts.md"
   ]
 }
