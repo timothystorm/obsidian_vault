@@ -1,5 +1,5 @@
 **Category**: browser automation
-#tools, #automation
+**Tags**: #tools, #automation
 
 ---
 
