@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tools",
+                "query": "tag:#automation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,7 +184,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "d9427e21a7c23dd9",
+  "active": "30d305162d67644b",
   "lastOpenFiles": [
     "README.md",
     "knowledge/tools/Playwright.md",

@@ -1,5 +1,4 @@
 **Category**: browser automation
-**Tags**: #tools, #automation
 
 ---
 
@@ -23,3 +22,7 @@
 - geolocation emulation
 - performance testing - built-in but lightweight profiler
 - Microsoft supported
+
+---
+
+> tags: #tools, #automation, #testing, #web
